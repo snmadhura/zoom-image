@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactImageMagnify from 'react-image-magnify';
 import ReactDom from 'react-dom';
-import './ImageComponent.css';
+import './ImageComponent.scss';
 
 
 class ZoomImage extends Component {
